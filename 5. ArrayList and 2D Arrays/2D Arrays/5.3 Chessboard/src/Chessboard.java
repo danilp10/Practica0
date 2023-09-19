@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class Chessboard
 {
    public static void main(String[] args)
